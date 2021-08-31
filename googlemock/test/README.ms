@@ -1,19 +1,70 @@
-#Quickstart:
-sample file.
+# Te
 
-Note: This is a sample .
+## Quickstart:
+Following are the.
+
+Note: This is a same.
      
-      Add source cod
-      Add respective head
-      Add libra
-      Modify CMa
-      Once all these changes are done, follow the next steps.
+      Add 
+      Add 
+    
 
-1. Download script from [link] (https://courses.grainger.illinois.edu/cs126/sp2020/notes/cmake/). 
+1. Download cript from [dww] (https://courses.grainger.illinois.edu/cs126/sp2020/notes/cmake/). 
 
-2. Execute the SDK installation script and mention pat (dwdwdw)
+2. Execute the SDK ins (dada)
 
-3. Clone [this](https://courses.grainger.illinois.edu/cs126/sp2020/notes/cmake/) repo. Sample test code is available in src directory. 
+3. Clone
+ 
    src :        Source files 
    inc :        Header Files 
    lib :        Prebuilt libraries fo linking target binary
+ 
+   
+4. Set up
+   source /pat
+   For Ex. source 
+
+5. Go to 
+   ./bui.sh
+   This script 
+
+6. Build
+   cmake ..
+   make
+
+
+
+
+ 
+
+## GT
+st is
+
+
+## Why est?
+
+Indep : Goog
+
+
+## ggg
+T:  It is us.
+
+E():     It 
+
+Fix : Cs.
+
+## Basic Concepts:
+
+
+A statements 
+        
+
+        fa : It abor
+        non  : it 
+
+
+
+
+### Fn          ### Non                          ### me
+A;	        EX	                         nnn
+
